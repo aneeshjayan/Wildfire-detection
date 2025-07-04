@@ -1,0 +1,8 @@
+{
+    "fold_1": {"accuracy": 0.823, "loss": 0.47, "notes": "Some false negatives"},
+    "fold_2": {"accuracy": 0.847, "loss": 0.41, "notes": "Best generalization"},
+    "fold_3": {"accuracy": 0.782, "loss": 0.53, "notes": "Slight overfitting"},
+    "fold_4": {"accuracy": 0.801, "loss": 0.49, "notes": "Consistent"},
+    "fold_5": {"accuracy": 0.796, "loss": 0.50, "notes": "Low smoke detection"}
+  }
+  

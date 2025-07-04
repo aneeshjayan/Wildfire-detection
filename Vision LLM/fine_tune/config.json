@@ -1,0 +1,8 @@
+{
+    "model_name": "microsoft/kosmos-2-patch14-224",
+    "output_dir": "D:/LLM/vision LLM/kosmos2-fire-app/outputs",
+    "csv_path": "D:/LLM/vision LLM/kosmos2-fire-app/data/annotations.csv",
+    "train_image_dir": "D:/LLM/vision LLM/kosmos2-fire-app/data\train",
+    "val_image_dir": "kosmos2-fire-app/data/val"
+  }
+  
